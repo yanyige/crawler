@@ -1,0 +1,27 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "a simple crawler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanyige/crawler.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "yyg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanyige/crawler/issues"
+  },
+  "homepage": "https://github.com/yanyige/crawler#readme",
+  "devDependencies": {
+    "eventproxy": "^0.3.5",
+    "superagent": "^3.5.0",
+    "superagent-charset": "^1.1.1"
+  }
+}
